@@ -1,0 +1,762 @@
+[
+    {
+        "question": "1. When was the first recorded women's football match?",
+        "response": "The first recorded women's football match took place 23 years before the first England women's international match at Wembley, which occurred on May 23, 1989.",
+        "context": [
+            {
+                "text": "ed their first joint national participation programme for girls’ football.\nIn 2014, England Women played their first match at the new Wembley Stadium,",
+                "metadata": {}
+            },
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 0.625,
+        "context_relevancy_feedback": "1. The retrieved context mentions the first England women's international match played at Wembley, which is related to the subject matter of the user's query about the first recorded women's football match. However, it does not specifically mention the first recorded women's football match overall, so there is some relevance but not a perfect match.\n\n2. The retrieved context can be used to provide information about the first England women's international match played at Wembley, but it does not exclusively answer the user's query about the first recorded women's football match. Additional information may be needed to provide a full answer.\n\n[RESULT] 2.5",
+        "response_time": 1.1101832389831543
+    },
+    {
+        "question": "2. Who owned the oldest football in existence according to claims?",
+        "response": "Mary Queen of Scots owned the oldest football in existence according to claims.",
+        "context": [
+            {
+                "text": "act, their participation dates back much further than you might imagine. It is claimed that Mary Queen of Scots herself owned the oldest football in e",
+                "metadata": {}
+            },
+            {
+                "text": "ar pastime, but it took another 300 years for the game to be codified into a standard set of rules by the newly formed Football Association in 1863. T",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context partially matches the subject matter of the user's query. It mentions the claim that Mary Queen of Scots owned the oldest football in existence, which is related to the question about the ownership of the oldest football according to claims.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. While it mentions the claim about Mary Queen of Scots owning the oldest football, it does not provide further details or evidence to support this claim.\n\n[RESULT] 3.0",
+        "response_time": 1.1729648113250732
+    },
+    {
+        "question": "3. What was the name of the poem written by Sir Philip Sidney in 1580 that refers to women playing football?",
+        "response": "The poem written by Sir Philip Sidney in 1580 that refers to women playing football is \"A Dialogue Between Two Shepherds.\"",
+        "context": [
+            {
+                "text": "t football in existence. Sir Philip Sidney’s poem A Dialogue Between Two Shepherds, written in 1580, refers to women playing:\n‘A tyme there is for all",
+                "metadata": {}
+            },
+            {
+                "text": "l, also played between Scotland and England. At this time opportunities for women to represent England in international competitions were still scarce",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context partially matches the subject matter of the user's query. While it mentions a poem written by Sir Philip Sidney in 1580 that refers to women playing football, it does not specifically provide the name of the poem.\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query as it does not mention the name of the poem.\n\n[RESULT] 2.0",
+        "response_time": 1.098644733428955
+    },
+    {
+        "question": "4. How many goals did Lily St Clair score in the first match representing Scotland?",
+        "response": "Lily St Clair scored one goal in the first match representing Scotland.",
+        "context": [
+            {
+                "text": "l, also played between Scotland and England. At this time opportunities for women to represent England in international competitions were still scarce",
+                "metadata": {}
+            },
+            {
+                "text": "ich wasn’t abandoned – Lily St Clair netted the first goal in front of a crowd of about 2,000 and in doing so became the first recorded female goal sc",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.25,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context mentions Lily St Clair scoring the first goal in a match between Scotland and England, but it does not specify the number of goals she scored in the first match representing Scotland.\nScore: 1/2\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. It only mentions Lily St Clair scoring the first goal in a match, but does not provide the total number of goals she scored in the first match representing Scotland.\nScore: 1/2\n\n[RESULT] 1.0",
+        "response_time": 1.4128391742706299
+    },
+    {
+        "question": "5. What was the name of the team that won the Munitionettes' Cup in 1917?",
+        "response": "Blyth Spartans Munitionettes",
+        "context": [
+            {
+                "text": "ament in Switzerland with a penalty shootout victory over Spain in the final to become the first England team to win a major title on foreign soil.",
+                "metadata": {}
+            },
+            {
+                "text": "s’ Cup, with Blyth Spartans Munitionettes beating Bolckow, Vaughan & Co 5-0 in the final.\nBy far the most famous and one of the most successful of the",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context provided talks about England winning a title in Switzerland and a different team winning the Munitionettes' Cup in 1917, which is not relevant to the query about the specific team that won the cup in 1917.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. The context only mentions Blyth Spartans Munitionettes beating Bolckow, Vaughan & Co 5-0 in the final of the Munitionettes' Cup, but it does not specify if this was the 1917 edition or provide the name of the team that won the cup in 1917.\n\n[RESULT] 2.0",
+        "response_time": 1.130507469177246
+    },
+    {
+        "question": "6. How many games did Dick, Kerr & Co win out of the 800 they played?",
+        "response": "Dick, Kerr & Co won 746 out of the 800 games they played.",
+        "context": [
+            {
+                "text": "ccessful of the factory-based teams of the time was Dick, Kerr & Co. From 1917 right through to 1965 they played 800 games - winning 746! They also pr",
+                "metadata": {}
+            },
+            {
+                "text": "r career. During and after the War, Dick, Kerr Ladies toured the country playing charity games to raise money for injured servicemen. Arguably, they w",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it specifically mentions the number of games Dick, Kerr & Co played and how many they won out of those games.\n\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it directly states that Dick, Kerr & Co won 746 out of the 800 games they played.\n\n[RESULT] 4.0",
+        "response_time": 0.9182195663452148
+    },
+    {
+        "question": "7. Who is believed to have scored around 900 goals during her 30-year career?",
+        "response": "Lily Parr is believed to have scored around 900 goals during her 30-year career.",
+        "context": [
+            {
+                "text": "6! They also produced the country’s best-ever goal scorer, Lily Parr, who is believed to have scored around 900 goals during her 30-year career. Durin",
+                "metadata": {}
+            },
+            {
+                "text": "eams. This was the predecessor to the Women’s EUROs.\nA DECADE OF FIRSTS\nThe 1990s saw the first strategic plans to develop the women’s game in England",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it specifically mentions Lily Parr and her believed goal tally of around 900 goals during her 30-year career.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it directly answers the question by stating that Lily Parr is believed to have scored around 900 goals during her 30-year career.\n\n[RESULT] 4.0",
+        "response_time": 0.7863044738769531
+    },
+    {
+        "question": "8. How many women's football clubs were there in 1921?",
+        "response": "Around 30 women's football clubs were present in 1921.",
+        "context": [
+            {
+                "text": "football and around 30 teams from across England met in Liverpool on 10 December 1921 to formalise the English Ladies Football Association (ELFA). Thi",
+                "metadata": {}
+            },
+            {
+                "text": "ed their first joint national participation programme for girls’ football.\nIn 2014, England Women played their first match at the new Wembley Stadium,",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.25,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context provided talks about the formation of the English Ladies Football Association in 1921 and England Women playing at Wembley Stadium in 2014, but it does not mention the number of women's football clubs in 1921.\nScore: 1/2\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. The information provided does not mention the specific number of women's football clubs in 1921, so it is not sufficient to answer the query.\nScore: 1/2\n\n[RESULT] 1.0",
+        "response_time": 0.7282702922821045
+    },
+    {
+        "question": "9. Who described football as \"the most unsuitable game, too much for a women's physical frame\"?",
+        "response": "The individual who described football as \"the most unsuitable game, too much for a women's physical frame\" was a doctor.",
+        "context": [
+            {
+                "text": "s affiliated to the FA, stating “the game of football is quite unsuitable for females and ought not to be encouraged.”\nThe ban meant the women’s game",
+                "metadata": {}
+            },
+            {
+                "text": "t for example described it as the “most unsuitable game, too much for a women’s physical frame”.\nBANNED\nOn 5 December 1921, the FA met at its headquar",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it discusses the ban on women playing football and includes a quote about football being unsuitable for women's physical frame.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it directly mentions the individual who described football as \"the most unsuitable game, too much for a women's physical frame.\"\n\n[RESULT] 4.0",
+        "response_time": 1.062040090560913
+    },
+    {
+        "question": "10. When was the ban on women's football lifted by the FA?",
+        "response": "The ban on women's football was lifted by the FA on 19 January 1970.",
+        "context": [
+            {
+                "text": "s affiliated to the FA, stating “the game of football is quite unsuitable for females and ought not to be encouraged.”\nThe ban meant the women’s game",
+                "metadata": {}
+            },
+            {
+                "text": "Council on 19 January 1970, the FA finally voted to rescind the controversial resolution of 1921 that had banned women's football for being \"unsuitab",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 0.875,
+        "context_relevancy_feedback": "1. The retrieved context partially matches the subject matter of the user's query. It mentions the ban on women's football by the FA and the date when it was lifted.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it directly states when the ban on women's football was lifted by the FA.\n\n[RESULT] 3.5",
+        "response_time": 1.0045993328094482
+    },
+    {
+        "question": "11. When was the English Ladies Football Association (ELFA) formalized?",
+        "response": "The English Ladies Football Association (ELFA) was formalized on 10 December 1921.",
+        "context": [
+            {
+                "text": "football and around 30 teams from across England met in Liverpool on 10 December 1921 to formalise the English Ladies Football Association (ELFA). Thi",
+                "metadata": {}
+            },
+            {
+                "text": "ed their first joint national participation programme for girls’ football.\nIn 2014, England Women played their first match at the new Wembley Stadium,",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the formalization of the English Ladies Football Association (ELFA) in 1921.\n\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it clearly states that the ELFA was formalized on 10 December 1921.\n\n[RESULT] 4.0",
+        "response_time": 0.807574987411499
+    },
+    {
+        "question": "12. Who won the first ELFA Challenge Cup competition in June 1922?",
+        "response": "The team that won the first ELFA Challenge Cup competition in June 1922 was the Dick, Kerr's Ladies team.",
+        "context": [
+            {
+                "text": "football and around 30 teams from across England met in Liverpool on 10 December 1921 to formalise the English Ladies Football Association (ELFA). Thi",
+                "metadata": {}
+            },
+            {
+                "text": "ament in Switzerland with a penalty shootout victory over Spain in the final to become the first England team to win a major title on foreign soil.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context provided talks about the English Ladies Football Association (ELFA) and the England team winning a tournament in Switzerland, which is not related to the first ELFA Challenge Cup competition in June 1922.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. The information provided does not mention the winner of the first ELFA Challenge Cup competition in June 1922.\n\n[RESULT] 2.0",
+        "response_time": 1.0742766857147217
+    },
+    {
+        "question": "13. When did the FA finally vote to rescind the ban on women's football?",
+        "response": "The FA finally voted to rescind the ban on women's football on 19 January 1970.",
+        "context": [
+            {
+                "text": "Council on 19 January 1970, the FA finally voted to rescind the controversial resolution of 1921 that had banned women's football for being \"unsuitab",
+                "metadata": {}
+            },
+            {
+                "text": "ial resources to develop the game it had nurtured. The FA established a Women’s Football Committee and with it the full-time post of Women’s Football",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the FA finally voting to rescind the ban on women's football.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it clearly states that the FA finally voted to rescind the ban on women's football on 19 January 1970.\n\n[RESULT] 4.0",
+        "response_time": 0.7927231788635254
+    },
+    {
+        "question": "14. Who was the first Honorary Secretary of the Women's Football Association (WFA)?",
+        "response": "Arthur Hobbs",
+        "context": [
+            {
+                "text": "baller, was the first Honorary Secretary of The WFA and Pat Dunn was its first Chair. In 1967, Hobbs had organised a women’s tournament in Deal, Kent,",
+                "metadata": {}
+            },
+            {
+                "text": "of 44 clubs attended the first meeting of the Women’s Football Association (WFA) in London. Arthur Hobbs, a carpenter and amateur footballer, was the",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions Arthur Hobbs as the first Honorary Secretary of the Women's Football Association (WFA).\n2. The retrieved context alone does not provide a full answer to the user's query as it only mentions Arthur Hobbs as the first Honorary Secretary but does not explicitly state that he was the first Honorary Secretary of the WFA. More information is needed to confirm this.\n\n[RESULT] 3.0",
+        "response_time": 0.9204034805297852
+    },
+    {
+        "question": "15. When was the first Women's FA Cup played?",
+        "response": "The first Women's FA Cup was played in 1970.",
+        "context": [
+            {
+                "text": "ed their first joint national participation programme for girls’ football.\nIn 2014, England Women played their first match at the new Wembley Stadium,",
+                "metadata": {}
+            },
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not directly answer the user's query about the first Women's FA Cup. It mentions England Women playing their first match at Wembley Stadium in 2014, but this is not specifically about the Women's FA Cup.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query as it does not mention the Women's FA Cup or its inaugural year.\n\n[RESULT] 2.0",
+        "response_time": 0.7771766185760498
+    },
+    {
+        "question": "16. Who won the first Women's FA Cup final in 1971?",
+        "response": "Southampton won the first Women's FA Cup final in 1971.",
+        "context": [
+            {
+                "text": "n’s club knock-out competition, later to become the Women’s FA Cup. In 1971 Southampton won the first final and they would go on to lift the trophy ei",
+                "metadata": {}
+            },
+            {
+                "text": "ds, showcased and celebrated women’s football. It was a pre-cursor to the Women’s FA Cup, which would go on to be first played in 1971.\nIn 1972, Hobbs",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.875,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the first Women's FA Cup final in 1971.\n2. The retrieved context does not provide the full answer to the user's query as it only mentions that Southampton won the first final, but does not explicitly state that they were the winners of the Women's FA Cup final in 1971.\n\n[RESULT] 3.5",
+        "response_time": 2.809084177017212
+    },
+    {
+        "question": "17. When did the FA recommend that the women's game should be governed by national associations across Europe?",
+        "response": "In 1971.",
+        "context": [
+            {
+                "text": "t the trophy eight times in its first eleven years. In 1971, UEFA recommended that the women’s game should be governed by national associations – then",
+                "metadata": {}
+            },
+            {
+                "text": "ciations – then numbering 32 – across Europe. The FA made their announcement on recognising The Women’s FA (WFA) on 29 February 1972.\nIn November of t",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": true,
+        "context_relevancy_score": 0.625,
+        "context_relevancy_feedback": "1. The retrieved context partially matches the subject matter of the user's query. It mentions UEFA recommending that the women's game should be governed by national associations across Europe, which is related to the governance of women's football. However, it does not specifically mention the FA's recommendation.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. While it provides information about UEFA's recommendation and the FA's recognition of The Women's FA, it does not directly answer when the FA recommended that the women's game should be governed by national associations across Europe.\n\n[RESULT] 2.5",
+        "response_time": 0.7199020385742188
+    },
+    {
+        "question": "18. When did the first official WFA England team play an international match in Scotland?",
+        "response": "In November of 1972, the first official WFA England team played an international match in Scotland.",
+        "context": [
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            },
+            {
+                "text": "n November of the same year – 1972 – the first official WFA England team travelled to Scotland for an international match in which England came from b",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.875,
+        "context_relevancy_feedback": "1. The retrieved context does match the subject matter of the user's query as it mentions the first official WFA England team playing an international match in Scotland.\n2. The retrieved context does not provide a full answer to the user's query as it only mentions the year (1972) when the match took place but does not specify the exact date.\n\n[RESULT] 3.5",
+        "response_time": 0.8086581230163574
+    },
+    {
+        "question": "19. Who scored the winning goal for Team GB Women against Brazil at Wembley Stadium in 2012?",
+        "response": "Steph Houghton scored the winning goal for Team GB Women against Brazil at Wembley Stadium in 2012.",
+        "context": [
+            {
+                "text": "ed their first joint national participation programme for girls’ football.\nIn 2014, England Women played their first match at the new Wembley Stadium,",
+                "metadata": {}
+            },
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": true,
+        "context_relevancy_score": 0.25,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context provided does not mention the specific match between Team GB Women and Brazil at Wembley Stadium in 2012, nor does it mention the winning goal scorer.\nScore: 1/2\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. Since the specific match and winning goal scorer are not mentioned in the context, additional information is needed to answer the query accurately.\nScore: 1/2\n\n[RESULT] 1.0",
+        "response_time": 0.9093837738037109
+    },
+    {
+        "question": "20. When was the FA Women's Super League (WSL) launched?",
+        "response": "The FA Women's Super League (WSL) was launched in 2011.",
+        "context": [
+            {
+                "text": "ed their first joint national participation programme for girls’ football.\nIn 2014, England Women played their first match at the new Wembley Stadium,",
+                "metadata": {}
+            },
+            {
+                "text": "l platform. The top three teams each season qualify for the UEFA Women’s Champions League. The WSL has increased the visibility of women’s club footba",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": true,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not directly answer the user's query about the launch date of the FA Women's Super League (WSL). It mentions England Women playing at Wembley Stadium in 2014 and the visibility of women's club football, but does not provide the specific launch date of the WSL.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query as it does not contain the launch date of the FA Women's Super League (WSL). Additional information would be needed to answer the query accurately.\n\n[RESULT] 2.0",
+        "response_time": 0.8395340442657471
+    },
+    {
+        "question": "21. Who was the first full-time England women's coach in 1998?",
+        "response": "Hope Powell",
+        "context": [
+            {
+                "text": "game in England, together with the first 20 Centres of Excellence for girls and also, in 1998, the first full-time England women’s coach, Hope Powell",
+                "metadata": {}
+            },
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the first full-time England women's coach in 1998, Hope Powell.\n\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it directly states the name of the first full-time England women's coach in 1998.\n\n[RESULT] 4.0",
+        "response_time": 0.6171698570251465
+    },
+    {
+        "question": "22. When did the WFA vote to pass over its activities to the FA?",
+        "response": "In 1993, the WFA voted to pass over its activities to the FA.",
+        "context": [
+            {
+                "text": "ndamental change happened two years later, in 1993, as the WFA voted to pass over its activities to the FA. It no longer had the financial resources t",
+                "metadata": {}
+            },
+            {
+                "text": "ciations – then numbering 32 – across Europe. The FA made their announcement on recognising The Women’s FA (WFA) on 29 February 1972.\nIn November of t",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it specifically mentions the WFA voting to pass over its activities to the FA.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it clearly states that the WFA voted to pass over its activities to the FA in 1993.\n\n[RESULT] 4.0",
+        "response_time": 0.8737821578979492
+    },
+    {
+        "question": "23. Who won the first UEFA competition for national representative women's teams in 1984?",
+        "response": "Sweden",
+        "context": [
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            },
+            {
+                "text": "t the trophy eight times in its first eleven years. In 1971, UEFA recommended that the women’s game should be governed by national associations – then",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.25,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context provided mentions England women's international match in 1989, which is not relevant to the UEFA competition for national representative women's teams in 1984.\nScore: 1/2\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. The context does not mention the winner of the first UEFA competition for national representative women's teams in 1984.\nScore: 1/2\n\n[RESULT] 1.0",
+        "response_time": 0.9321057796478271
+    },
+    {
+        "question": "24. When did the FA Women's Super League grow into a two-division fully professional game?",
+        "response": "The FA Women's Super League grew into a two-division fully professional game when it replaced the FA Women's Premier League National Division as the highest level of women's football in England.",
+        "context": [
+            {
+                "text": "etition. This replaced the FA Women's Premier League National Division as the highest level of women's football in England and ran on this basis until",
+                "metadata": {}
+            },
+            {
+                "text": "ial resources to develop the game it had nurtured. The FA established a Women’s Football Committee and with it the full-time post of Women’s Football",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not directly answer the user's query about when the FA Women's Super League grew into a two-division fully professional game. The context provided talks about the establishment of the Women's Football Committee and the development of the game, but does not specify the timeline of when it became a two-division fully professional game.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query as it does not contain the specific information regarding when the FA Women's Super League grew into a two-division fully professional game. Additional information would be needed to fully answer the query.\n\n[RESULT] 2.0",
+        "response_time": 1.4036428928375244
+    },
+    {
+        "question": "25. Who was the first woman inducted into the National Football Museum Hall of Fame in 2002?",
+        "response": "Pat Dunn was the first woman inducted into the National Football Museum Hall of Fame in 2002.",
+        "context": [
+            {
+                "text": "ds, showcased and celebrated women’s football. It was a pre-cursor to the Women’s FA Cup, which would go on to be first played in 1971.\nIn 1972, Hobbs",
+                "metadata": {}
+            },
+            {
+                "text": "baller, was the first Honorary Secretary of The WFA and Pat Dunn was its first Chair. In 1967, Hobbs had organised a women’s tournament in Deal, Kent,",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context provided discusses the history of women's football in the UK, mentioning individuals like Pat Dunn and the Women's FA Cup, but it does not mention the first woman inducted into the National Football Museum Hall of Fame in 2002.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. The information provided does not mention the specific woman who was the first to be inducted into the National Football Museum Hall of Fame in 2002.\n\n[RESULT] 2.0",
+        "response_time": 1.3273608684539795
+    },
+    {
+        "question": "26. When did England Women play their first match at the new Wembley Stadium?",
+        "response": "England Women played their first match at the new Wembley Stadium in 2014.",
+        "context": [
+            {
+                "text": "ed their first joint national participation programme for girls’ football.\nIn 2014, England Women played their first match at the new Wembley Stadium,",
+                "metadata": {}
+            },
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions England Women playing their first match at the new Wembley Stadium.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it clearly states that England Women played their first match at the new Wembley Stadium in 2014.\n\n[RESULT] 4.0",
+        "response_time": 1.1262245178222656
+    },
+    {
+        "question": "27. Who won the SheBelieves Cup for the first time in 2019?",
+        "response": "England",
+        "context": [
+            {
+                "text": "ament in Switzerland with a penalty shootout victory over Spain in the final to become the first England team to win a major title on foreign soil.",
+                "metadata": {}
+            },
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context provided talks about England winning a major title in Switzerland, but it does not mention the SheBelieves Cup specifically.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. While it mentions England winning a major title, it does not specify that it was the SheBelieves Cup.\n\n[RESULT] 2.0",
+        "response_time": 0.7983682155609131
+    },
+    {
+        "question": "28. When was the first joint national participation programme for girls' football launched?",
+        "response": "The first joint national participation programme for girls' football was launched when the first 20 Centres of Excellence for girls were established.",
+        "context": [
+            {
+                "text": "ed their first joint national participation programme for girls’ football.\nIn 2014, England Women played their first match at the new Wembley Stadium,",
+                "metadata": {}
+            },
+            {
+                "text": "game in England, together with the first 20 Centres of Excellence for girls and also, in 1998, the first full-time England women’s coach, Hope Powell",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context mentions the first joint national participation programme for girls' football being launched, which directly matches the subject matter of the user's query. Therefore, the retrieved context is relevant to the query. 2 out of 2 points.\n\n2. The retrieved context provides information about the first joint national participation programme for girls' football being launched, but it does not exclusively provide a full answer to the user's query. Additional information such as the specific year when the programme was launched is needed to fully answer the query. 1 out of 2 points.\n\n[RESULT] 3.0",
+        "response_time": 0.9779493808746338
+    },
+    {
+        "question": "29. Who was the first Chair of the Women's Football Association (WFA)?",
+        "response": "Pat Dunn was the first Chair of the Women's Football Association (WFA).",
+        "context": [
+            {
+                "text": "baller, was the first Honorary Secretary of The WFA and Pat Dunn was its first Chair. In 1967, Hobbs had organised a women’s tournament in Deal, Kent,",
+                "metadata": {}
+            },
+            {
+                "text": "of 44 clubs attended the first meeting of the Women’s Football Association (WFA) in London. Arthur Hobbs, a carpenter and amateur footballer, was the",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context does match the subject matter of the user's query. It specifically mentions Pat Dunn as the first Chair of the Women's Football Association (WFA), which directly relates to the query about the first Chair of the WFA. Therefore, the relevance is high. 2 out of 2 points.\n\n2. The retrieved context can be used exclusively to provide a full answer to the user's query. It clearly states that Pat Dunn was the first Chair of the Women's Football Association (WFA), which directly answers the query without the need for additional information. Therefore, the context can be used exclusively to answer the query. 2 out of 2 points.\n\n[RESULT] 4.0",
+        "response_time": 0.7805325984954834
+    },
+    {
+        "question": "30. When did the FA launch their first formal strategy for women's and girls' football in England?",
+        "response": "The FA launched their first formal strategy for women's and girls' football in England in 1993.",
+        "context": [
+            {
+                "text": "ed their first joint national participation programme for girls’ football.\nIn 2014, England Women played their first match at the new Wembley Stadium,",
+                "metadata": {}
+            },
+            {
+                "text": "ial resources to develop the game it had nurtured. The FA established a Women’s Football Committee and with it the full-time post of Women’s Football",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not directly answer the user's query about when the FA launched their first formal strategy for women's and girls' football in England. The context mentions the establishment of a Women's Football Committee and a joint national participation program for girls' football, but it does not specify the launch date of the first formal strategy.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query as it does not contain the specific information regarding the launch date of the FA's first formal strategy for women's and girls' football in England.\n\n[RESULT] 2.0",
+        "response_time": 1.6319878101348877
+    },
+    {
+        "question": "31. Who presented the original 1972 team with their long-awaited caps in 2022?",
+        "response": "Jill Scott presented the original 1972 team with their long-awaited caps in 2022.",
+        "context": [
+            {
+                "text": "ar of England Women; a moment we all got to celebrate at Wembley on 7 October 2022 when Jill Scott presented the original 1972 team with their long-aw",
+                "metadata": {}
+            },
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the original 1972 team receiving their long-awaited caps in 2022.\n2. The retrieved context alone cannot provide a full answer to the user's query as it does not explicitly state who presented the original 1972 team with their long-awaited caps in 2022.\n\n[RESULT] 3.0",
+        "response_time": 0.9179890155792236
+    },
+    {
+        "question": "32. When did the Lionesses reach the FIFA Women's World Cup Final for the first time?",
+        "response": "The Lionesses reached the FIFA Women's World Cup Final for the first time in 2023.",
+        "context": [
+            {
+                "text": "that disappointment was replaced with further celebrations when the Lionesses retained their UEFA Women's EURO crown at the 2025 tournament in Switze",
+                "metadata": {}
+            },
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not directly answer the user's query about when the Lionesses reached the FIFA Women's World Cup Final for the first time. It mentions a different tournament (UEFA Women's EURO) and a future date (2025).\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query as it does not mention the specific year when the Lionesses reached the FIFA Women's World Cup Final for the first time.\n\n[RESULT] 2.0",
+        "response_time": 0.9946146011352539
+    },
+    {
+        "question": "33. Who did the Lionesses lose to in the FIFA Women's World Cup Final in Sydney?",
+        "response": "The Lionesses lost to the United States in the FIFA Women's World Cup Final in Sydney.",
+        "context": [
+            {
+                "text": "that disappointment was replaced with further celebrations when the Lionesses retained their UEFA Women's EURO crown at the 2025 tournament in Switze",
+                "metadata": {}
+            },
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.25,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context mentions the Lionesses winning the UEFA Women's EURO crown in 2025, but the query is asking about who they lost to in the FIFA Women's World Cup Final in Sydney.\nScore: 1/2\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. The context does not mention any specific details about the FIFA Women's World Cup Final in Sydney or who the Lionesses lost to in that particular match.\nScore: 1/2\n\n[RESULT] 1.0",
+        "response_time": 2.2050793170928955
+    },
+    {
+        "question": "34. When did the Lionesses retain their UEFA Women's EURO crown?",
+        "response": "The Lionesses retained their UEFA Women's EURO crown at the 2025 tournament in Switzerland.",
+        "context": [
+            {
+                "text": "that disappointment was replaced with further celebrations when the Lionesses retained their UEFA Women's EURO crown at the 2025 tournament in Switze",
+                "metadata": {}
+            },
+            {
+                "text": "ations.\nThese foundations were given a further boost in 2005 when England hosted the UEFA Women’s EURO. Records for crowd attendance and TV audiences",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the Lionesses retaining their UEFA Women's EURO crown.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it clearly states that the Lionesses retained their UEFA Women's EURO crown at the 2025 tournament in Switzerland.\n\n[RESULT] 4.0",
+        "response_time": 7.793243885040283
+    },
+    {
+        "question": "35. Who did the Lionesses defeat in the UEFA Women's EURO final to retain their title?",
+        "response": "The Lionesses defeated Spain in the UEFA Women's EURO final to retain their title.",
+        "context": [
+            {
+                "text": "that disappointment was replaced with further celebrations when the Lionesses retained their UEFA Women's EURO crown at the 2025 tournament in Switze",
+                "metadata": {}
+            },
+            {
+                "text": "ament in Switzerland with a penalty shootout victory over Spain in the final to become the first England team to win a major title on foreign soil.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the Lionesses retaining their title in the UEFA Women's EURO final.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it specifically states that the Lionesses defeated Spain in the final to retain their title.\n\n[RESULT] 4.0",
+        "response_time": 0.876460075378418
+    },
+    {
+        "question": "36. When was the UEFA Women's EURO 2022 held?",
+        "response": "The UEFA Women's EURO 2022 was held in Switzerland.",
+        "context": [
+            {
+                "text": "that disappointment was replaced with further celebrations when the Lionesses retained their UEFA Women's EURO crown at the 2025 tournament in Switze",
+                "metadata": {}
+            },
+            {
+                "text": "ations.\nThese foundations were given a further boost in 2005 when England hosted the UEFA Women’s EURO. Records for crowd attendance and TV audiences",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.125,
+        "context_relevancy_feedback": "1. The retrieved context mentions the UEFA Women's EURO tournament, but it refers to the 2025 tournament in Switzerland, not the 2022 tournament. Therefore, the subject matter does not match the user's query. 1/2 points.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query as it does not mention the specific year when the UEFA Women's EURO 2022 was held. 0/2 points.\n\n[RESULT] 0.5",
+        "response_time": 0.8179121017456055
+    },
+    {
+        "question": "37. How many new opportunities for girls and women were created by the UEFA Women's EURO 2022?",
+        "response": "Numerous new opportunities for girls and women were created by the UEFA Women's EURO 2022.",
+        "context": [
+            {
+                "text": "or England at the UEFA Women’s EURO 2022 in front of a crowd of 87,192 has firmly established the women’s game in the national psyche.\nMedia coverage",
+                "metadata": {}
+            },
+            {
+                "text": "that disappointment was replaced with further celebrations when the Lionesses retained their UEFA Women's EURO crown at the 2025 tournament in Switze",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not directly address the number of new opportunities created for girls and women by the UEFA Women's EURO 2022. It mentions the success of the England team at the tournament but does not provide information on new opportunities.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query as it does not mention the creation of new opportunities for girls and women.\n\n[RESULT] 2.0",
+        "response_time": 1.5062541961669922
+    },
+    {
+        "question": "38. When was the Women's Professional Leagues Limited introduced?",
+        "response": "The Women's Professional Leagues Limited was introduced independently of the Football Association.",
+        "context": [
+            {
+                "text": "e independent of the FA, with the introduction of Women's Professional Leagues Limited with the aim of spearheading a new era in the sport, dedicated",
+                "metadata": {}
+            },
+            {
+                "text": "l, also played between Scotland and England. At this time opportunities for women to represent England in international competitions were still scarce",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.875,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the introduction of the Women's Professional Leagues Limited.\n2. The retrieved context alone does not provide the specific date when the Women's Professional Leagues Limited was introduced. It gives some background information but does not give a full answer to the query.\nOverall, the retrieved context is relevant to the query but does not exclusively provide a full answer.\n[RESULT] 3.5",
+        "response_time": 0.9335346221923828
+    },
+    {
+        "question": "39. Who was the first England team to win a major title on foreign soil?",
+        "response": "The first England team to win a major title on foreign soil was the England women's team.",
+        "context": [
+            {
+                "text": "ament in Switzerland with a penalty shootout victory over Spain in the final to become the first England team to win a major title on foreign soil.",
+                "metadata": {}
+            },
+            {
+                "text": "ith the very first England women's international match played at Wembley only 23 years beforehand (England vs Sweden on 23 May 1989) which took place",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context directly answers the user's query by stating that the first England team to win a major title on foreign soil was the team that won a tournament in Switzerland with a penalty shootout victory over Spain in the final.\n\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it clearly identifies the specific England team and the circumstances in which they achieved the milestone of winning a major title on foreign soil.\n\n[RESULT] 4.0",
+        "response_time": 6.7065818309783936
+    },
+    {
+        "question": "40. When was the Reaching Higher strategy launched for the women's and girls' game?",
+        "response": "The Reaching Higher strategy was launched in the 1990s.",
+        "context": [
+            {
+                "text": "game in England, together with the first 20 Centres of Excellence for girls and also, in 1998, the first full-time England women’s coach, Hope Powell",
+                "metadata": {}
+            },
+            {
+                "text": "eams. This was the predecessor to the Women’s EUROs.\nA DECADE OF FIRSTS\nThe 1990s saw the first strategic plans to develop the women’s game in England",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context mentions the development of the women's game in England, including the establishment of the first 20 Centres of Excellence for girls and the appointment of the first full-time England women's coach. While it does not directly mention the Reaching Higher strategy, it is related to the subject matter of the query as it discusses initiatives to advance women's football.\n\n2. The retrieved context alone does not provide a specific answer to when the Reaching Higher strategy was launched for the women's and girls' game. It mentions developments in the 1990s but does not give a precise date for the launch of the Reaching Higher strategy.\n\n[RESULT] 2.0",
+        "response_time": 0.8515160083770752
+    }
+]

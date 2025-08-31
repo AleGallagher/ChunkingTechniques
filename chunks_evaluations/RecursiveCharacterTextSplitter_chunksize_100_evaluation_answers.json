@@ -1,0 +1,762 @@
+[
+    {
+        "question": "1. When was the first recorded women's football match?",
+        "response": "The first recorded women's football match took place in 1895.",
+        "context": [
+            {
+                "text": "across England met in Liverpool on 10 December 1921 to formalise the English Ladies Football",
+                "metadata": {}
+            },
+            {
+                "text": "of 1921 that had banned women's football for being \"unsuitable\".",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the formalization of the English Ladies Football in 1921.\n2. The retrieved context does not provide the exact date of the first recorded women's football match. It only mentions a meeting in Liverpool on 10 December 1921 to formalize the English Ladies Football. More information would be needed to provide a full answer to the user's query.\n\n[RESULT] 3.0",
+        "response_time": 0.7816610336303711
+    },
+    {
+        "question": "2. Who owned the oldest football in existence according to claims?",
+        "response": "Sir Philip Sidney owned the oldest football in existence according to claims.",
+        "context": [
+            {
+                "text": "herself owned the oldest football in existence. Sir Philip Sidney’s poem A Dialogue Between Two",
+                "metadata": {}
+            },
+            {
+                "text": "FA Cup, which would go on to be first played in 1971.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context provided does not mention anything about the ownership of the oldest football in existence according to claims. Instead, it talks about the FA Cup and a poem by Sir Philip Sidney.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. The context does not provide any information related to the ownership of the oldest football in existence according to claims. Therefore, it cannot be used to answer the query.\n\n[RESULT] 2.0",
+        "response_time": 0.871779203414917
+    },
+    {
+        "question": "3. What was the name of the poem written by Sir Philip Sidney in 1580 that refers to women playing football?",
+        "response": "The name of the poem written by Sir Philip Sidney in 1580 that refers to women playing football was \"A Dialogue Between Two.\"",
+        "context": [
+            {
+                "text": "Two Shepherds, written in 1580, refers to women playing:",
+                "metadata": {}
+            },
+            {
+                "text": "herself owned the oldest football in existence. Sir Philip Sidney’s poem A Dialogue Between Two",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context partially matches the subject matter of the user's query. It mentions a poem written by Sir Philip Sidney in 1580 that refers to women playing, which is related to the query about the name of the poem.\n2. The retrieved context does not provide the name of the poem written by Sir Philip Sidney in 1580 that refers to women playing football. It only mentions the poem's existence and the subject matter, but not the specific title.\n\n[RESULT] 2.0",
+        "response_time": 0.7953598499298096
+    },
+    {
+        "question": "4. How many goals did Lily St Clair score in the first match representing Scotland?",
+        "response": "Lily St Clair scored one goal in the first match representing Scotland.",
+        "context": [
+            {
+                "text": "the first match – which wasn’t abandoned – Lily St Clair netted the first goal in front of a crowd",
+                "metadata": {}
+            },
+            {
+                "text": "history of the game. The team representing Scotland were 2-0 winners.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context does match the subject matter of the user's query as it mentions Lily St Clair scoring a goal in the first match representing Scotland.\n2. The retrieved context alone does not provide the specific number of goals Lily St Clair scored in the first match representing Scotland. It only mentions that she scored the first goal and the team won 2-0. Additional information is needed to provide a full answer to the query.\n\n[RESULT] 3.0",
+        "response_time": 1.0189576148986816
+    },
+    {
+        "question": "5. What was the name of the team that won the Munitionettes' Cup in 1917?",
+        "response": "Blyth Spartans Munitionettes",
+        "context": [
+            {
+                "text": "their own teams. In 1917 the munitions factories gave birth to the Munitionettes’ Cup, with Blyth",
+                "metadata": {}
+            },
+            {
+                "text": "Blyth Spartans Munitionettes beating Bolckow, Vaughan & Co 5-0 in the final.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the Munitionettes' Cup in 1917.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it states that Blyth Spartans Munitionettes won the cup in 1917 by beating Bolckow, Vaughan & Co 5-0 in the final.\n\n[RESULT] 4.0",
+        "response_time": 0.822479248046875
+    },
+    {
+        "question": "6. How many games did Dick, Kerr & Co win out of the 800 they played?",
+        "response": "Dick, Kerr & Co won the majority of the games they played out of the 800.",
+        "context": [
+            {
+                "text": "to have scored around 900 goals during her 30-year career. During and after the War, Dick, Kerr",
+                "metadata": {}
+            },
+            {
+                "text": "Kerr Ladies toured the country playing charity games to raise money for injured servicemen.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context mentions Dick, Kerr Ladies playing charity games to raise money for injured servicemen, but it does not provide information on the number of games they won out of the 800 they played.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. It lacks the specific information needed to determine how many games Dick, Kerr & Co won out of the 800 they played.\n\n[RESULT] 2.0",
+        "response_time": 1.2245123386383057
+    },
+    {
+        "question": "7. Who is believed to have scored around 900 goals during her 30-year career?",
+        "response": "Lily Parr is believed to have scored around 900 goals during her 30-year career.",
+        "context": [
+            {
+                "text": "to have scored around 900 goals during her 30-year career. During and after the War, Dick, Kerr",
+                "metadata": {}
+            },
+            {
+                "text": "a crowd of about 2,000 and in doing so became the first recorded female goal scorer in the history",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context does match the subject matter of the user's query as it mentions someone who is believed to have scored around 900 goals during her 30-year career.\n2. The retrieved context alone does not provide a full answer to the user's query as it does not mention the name of the individual who is believed to have scored the goals.\n\n[RESULT] 3.0",
+        "response_time": 1.393366813659668
+    },
+    {
+        "question": "8. How many women's football clubs were there in 1921?",
+        "response": "There were about 150 women's football clubs in 1921.",
+        "context": [
+            {
+                "text": "of 1921 that had banned women's football for being \"unsuitable\".",
+                "metadata": {}
+            },
+            {
+                "text": "By 1921 there were about 150 women’s football clubs. Matches were popular spectator events and some",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context mentions the number of women's football clubs in 1921, which directly matches the subject matter of the user's query. Therefore, the retrieved context is relevant to the query. 2 out of 2 points.\n\n2. The retrieved context provides the specific number of women's football clubs in 1921, which can be used exclusively to provide a full answer to the user's query. Therefore, the retrieved context can be used to answer the query. 2 out of 2 points.\n\n[RESULT] 4.0",
+        "response_time": 0.9102795124053955
+    },
+    {
+        "question": "9. Who described football as \"the most unsuitable game, too much for a women's physical frame\"?",
+        "response": "The individual who described football as \"the most unsuitable game, too much for a women's physical frame\" was the Football Association (FA).",
+        "context": [
+            {
+                "text": "of 1921 that had banned women's football for being \"unsuitable\".",
+                "metadata": {}
+            },
+            {
+                "text": "to the FA, stating “the game of football is quite unsuitable for females and ought not to be",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does match the subject matter of the user's query as it mentions the ban on women's football due to it being considered unsuitable.\n2. The retrieved context does not provide the specific answer to the user's query as it does not mention who described football as \"the most unsuitable game, too much for a women's physical frame\".\n\n[RESULT] 2.0",
+        "response_time": 1.3789148330688477
+    },
+    {
+        "question": "10. When was the ban on women's football lifted by the FA?",
+        "response": "The ban on women's football was lifted by the FA in December 1969.",
+        "context": [
+            {
+                "text": "of 1921 that had banned women's football for being \"unsuitable\".",
+                "metadata": {}
+            },
+            {
+                "text": "The FA were coming under increasing pressure to lift the ban on women's football. In December 1969,",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the ban on women's football being lifted by the FA.\n2. The retrieved context alone does not provide the specific date when the ban on women's football was lifted by the FA. It mentions the pressure to lift the ban in December 1969, but does not give the exact date of when it was lifted.\n\n[RESULT] 3.0",
+        "response_time": 0.9145853519439697
+    },
+    {
+        "question": "11. When was the English Ladies Football Association (ELFA) formalized?",
+        "response": "The English Ladies Football Association (ELFA) was formalized on 10 December 1921.",
+        "context": [
+            {
+                "text": "across England met in Liverpool on 10 December 1921 to formalise the English Ladies Football",
+                "metadata": {}
+            },
+            {
+                "text": "Football Association (ELFA). This aimed “to popularise the game among girls and to assist charity\".",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the formalization of the English Ladies Football Association (ELFA) in 1921.\n\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it clearly states that the ELFA was formalized on 10 December 1921.\n\n[RESULT] 4.0",
+        "response_time": 0.9049782752990723
+    },
+    {
+        "question": "12. Who won the first ELFA Challenge Cup competition in June 1922?",
+        "response": "Doncaster and Bentley Ladies",
+        "context": [
+            {
+                "text": "FA Cup, which would go on to be first played in 1971.",
+                "metadata": {}
+            },
+            {
+                "text": "the trophy, beating Doncaster and Bentley Ladies 3-1 in the June 1922 final.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context does match the subject matter of the user's query as it mentions the first ELFA Challenge Cup competition in June 1922.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it states that the winner of the competition was a team that beat Doncaster and Bentley Ladies 3-1 in the final.\n\n[RESULT] 4.0",
+        "response_time": 0.7783608436584473
+    },
+    {
+        "question": "13. When did the FA finally vote to rescind the ban on women's football?",
+        "response": "The FA finally voted to rescind the ban on women's football on 19 January 1970.",
+        "context": [
+            {
+                "text": "of the FA Council on 19 January 1970, the FA finally voted to rescind the controversial resolution",
+                "metadata": {}
+            },
+            {
+                "text": "The FA were coming under increasing pressure to lift the ban on women's football. In December 1969,",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the FA finally voting to rescind the ban on women's football.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it specifies the date of the FA Council meeting where the vote took place.\n\n[RESULT] 4.0",
+        "response_time": 1.2374529838562012
+    },
+    {
+        "question": "14. Who was the first Honorary Secretary of the Women's Football Association (WFA)?",
+        "response": "Pat Dunn was the first Honorary Secretary of the Women's Football Association (WFA).",
+        "context": [
+            {
+                "text": "amateur footballer, was the first Honorary Secretary of The WFA and Pat Dunn was its first Chair.",
+                "metadata": {}
+            },
+            {
+                "text": "of the Women’s Football Association (WFA) in London. Arthur Hobbs, a carpenter and amateur",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.875,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the Women's Football Association (WFA) and the position of Honorary Secretary.\n2. The retrieved context alone does not provide a full answer to the user's query as it only mentions the first Honorary Secretary of the WFA was an amateur footballer named Arthur Hobbs. It does not explicitly state that he was the first Honorary Secretary.\nOverall, the retrieved context partially matches the query but does not provide a full answer.\n[RESULT] 3.5",
+        "response_time": 0.9823129177093506
+    },
+    {
+        "question": "15. When was the first Women's FA Cup played?",
+        "response": "The first Women's FA Cup was played in 1971.",
+        "context": [
+            {
+                "text": "FA Cup, which would go on to be first played in 1971.",
+                "metadata": {}
+            },
+            {
+                "text": "playing fields, showcased and celebrated women’s football. It was a pre-cursor to the Women’s FA",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context mentions the Women's FA Cup being first played in 1971, which directly matches the subject matter of the user's query regarding the first Women's FA Cup.\n\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it clearly states that the first Women's FA Cup was played in 1971.\n\n[RESULT] 4.0",
+        "response_time": 0.8909714221954346
+    },
+    {
+        "question": "16. Who won the first Women's FA Cup final in 1971?",
+        "response": "Southampton",
+        "context": [
+            {
+                "text": "FA Cup, which would go on to be first played in 1971.",
+                "metadata": {}
+            },
+            {
+                "text": "later to become the Women’s FA Cup. In 1971 Southampton won the first final and they would go on to",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context does match the subject matter of the user's query as it mentions the first Women's FA Cup final in 1971 and the winner.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it directly states that Southampton won the first Women's FA Cup final in 1971.\n\n[RESULT] 4.0",
+        "response_time": 5.7384655475616455
+    },
+    {
+        "question": "17. When did the FA recommend that the women's game should be governed by national associations across Europe?",
+        "response": "The FA recommended that the women's game should be governed by national associations across Europe on 29 February.",
+        "context": [
+            {
+                "text": "that the women’s game should be governed by national associations – then numbering 32 – across",
+                "metadata": {}
+            },
+            {
+                "text": "– across Europe. The FA made their announcement on recognising The Women’s FA (WFA) on 29 February",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the recommendation by the FA regarding the governance of the women's game by national associations across Europe.\n\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it specifically states that the FA made the recommendation on 29 February.\n\n[RESULT] 4.0",
+        "response_time": 1.4117064476013184
+    },
+    {
+        "question": "18. When did the first official WFA England team play an international match in Scotland?",
+        "response": "The first official WFA England team played an international match in Scotland in November of 1972.",
+        "context": [
+            {
+                "text": "In November of the same year – 1972 – the first official WFA England team travelled to Scotland for",
+                "metadata": {}
+            },
+            {
+                "text": "after the first recognised men's international, also played between Scotland and England. At this",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the first official WFA England team playing an international match in Scotland.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it specifies that the first official WFA England team played in Scotland in 1972.\n\n[RESULT] 4.0",
+        "response_time": 0.9650008678436279
+    },
+    {
+        "question": "19. Who scored the winning goal for Team GB Women against Brazil at Wembley Stadium in 2012?",
+        "response": "Sylvia scored the winning goal for Team GB Women against Brazil at Wembley Stadium in 2012.",
+        "context": [
+            {
+                "text": "win over Brazil in Team GB’s third group match was played in front of 70,584 fans at Wembley",
+                "metadata": {}
+            },
+            {
+                "text": "for an international match in which England came from behind to win 3-2 with goals from Sylvia",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 0.625,
+        "context_relevancy_feedback": "1. The retrieved context mentions a win over Brazil at Wembley Stadium, which is relevant to the user's query about a match between Team GB Women and Brazil at Wembley Stadium in 2012. However, it does not specifically mention who scored the winning goal.\n\n2. The retrieved context does not provide the specific information needed to answer the user's query about who scored the winning goal for Team GB Women against Brazil at Wembley Stadium in 2012. It only mentions the overall result of the match and the number of goals scored.\n\nOverall, while the retrieved context is relevant to the query in terms of the match location and opponent, it does not provide the specific information needed to answer the query. \n\n[RESULT] 2.5",
+        "response_time": 0.9024238586425781
+    },
+    {
+        "question": "20. When was the FA Women's Super League (WSL) launched?",
+        "response": "The FA Women's Super League (WSL) was launched in 2011.",
+        "context": [
+            {
+                "text": "saw the birth of the Women's Premier League (FAWPL).",
+                "metadata": {}
+            },
+            {
+                "text": "and 2011 saw the inception of The FA Women’s Super League (WSL) which was initially an eight-team",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context mentions the inception of The FA Women's Super League (WSL) in 2011, which directly relates to the user's query about when the league was launched. Therefore, the retrieved context matches the subject matter of the user's query. 2 out of 2 points.\n\n2. The retrieved context provides a direct answer to the user's query by stating that The FA Women's Super League (WSL) was launched in 2011. This information can be used exclusively to provide a full answer to the user's query. 2 out of 2 points.\n\n[RESULT] 4.0",
+        "response_time": 0.7341008186340332
+    },
+    {
+        "question": "21. Who was the first full-time England women's coach in 1998?",
+        "response": "Hope Powell",
+        "context": [
+            {
+                "text": "with the first 20 Centres of Excellence for girls and also, in 1998, the first full-time England",
+                "metadata": {}
+            },
+            {
+                "text": "England women’s coach, Hope Powell – later to be honoured with both an OBE and CBE.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the first full-time England women's coach in 1998, which is Hope Powell.\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it directly states that Hope Powell was the first full-time England women's coach in 1998.\n\n[RESULT] 4.0",
+        "response_time": 0.6919958591461182
+    },
+    {
+        "question": "22. When did the WFA vote to pass over its activities to the FA?",
+        "response": "The WFA voted to pass over its activities to the FA when it no longer had the financial resources.",
+        "context": [
+            {
+                "text": "of the FA Council on 19 January 1970, the FA finally voted to rescind the controversial resolution",
+                "metadata": {}
+            },
+            {
+                "text": "WFA voted to pass over its activities to the FA. It no longer had the financial resources to",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": true,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context does match the subject matter of the user's query as it mentions the WFA voting to pass over its activities to the FA.\n2. The retrieved context does not provide a specific date for when the WFA voted to pass over its activities to the FA. It only mentions the FA Council voting on 19 January 1970 to rescind a controversial resolution. Therefore, the context cannot be used exclusively to provide a full answer to the user's query.\n\n[RESULT] 3.0",
+        "response_time": 1.1327941417694092
+    },
+    {
+        "question": "23. Who won the first UEFA competition for national representative women's teams in 1984?",
+        "response": "Sweden won the first UEFA competition for national representative women's teams in 1984.",
+        "context": [
+            {
+                "text": "national representative women's teams. This was the predecessor to the Women’s EUROs.",
+                "metadata": {}
+            },
+            {
+                "text": "These foundations were given a further boost in 2005 when England hosted the UEFA Women’s EURO.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context mentions the UEFA Women's EURO, which is related to national representative women's teams, but it does not specifically address the first UEFA competition for national representative women's teams in 1984. Therefore, the relevance to the user's query is limited. 1.5/2\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query as it does not mention the winner of the first UEFA competition for national representative women's teams in 1984. Additional information is needed to fully answer the query. 1.5/2\n\n[RESULT] 3.0",
+        "response_time": 0.9712462425231934
+    },
+    {
+        "question": "24. When did the FA Women's Super League grow into a two-division fully professional game?",
+        "response": "The FA Women's Super League grew into a two-division fully professional game in 2018.",
+        "context": [
+            {
+                "text": "saw the birth of the Women's Premier League (FAWPL).",
+                "metadata": {}
+            },
+            {
+                "text": "The WFA grew the women’s game throughout the 1970s, ‘80s and early ‘90s.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not directly match the subject matter of the user's query. The query is specifically asking about the FA Women's Super League growing into a two-division fully professional game, while the retrieved context mentions the Women's Premier League and the growth of the women's game in general.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. It does not mention the specific details about the FA Women's Super League becoming a two-division fully professional game.\n\n[RESULT] 2.0",
+        "response_time": 0.7231597900390625
+    },
+    {
+        "question": "25. Who was the first woman inducted into the National Football Museum Hall of Fame in 2002?",
+        "response": "Kerr Ladies was the first woman inducted into the National Football Museum Hall of Fame in 2002.",
+        "context": [
+            {
+                "text": "Kerr Ladies became the first woman inducted into the National Football Museum Hall of Fame. This",
+                "metadata": {}
+            },
+            {
+                "text": "a crowd of about 2,000 and in doing so became the first recorded female goal scorer in the history",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 1.0,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the first woman inducted into the National Football Museum Hall of Fame.\n\n2. The retrieved context can be used exclusively to provide a full answer to the user's query as it clearly states that Kerr Ladies was the first woman inducted into the Hall of Fame in 2002.\n\n[RESULT] 4.0",
+        "response_time": 1.2302491664886475
+    },
+    {
+        "question": "26. When did England Women play their first match at the new Wembley Stadium?",
+        "response": "England Women played their first match at the new Wembley Stadium on November 9, 2014.",
+        "context": [
+            {
+                "text": "Wembley Stadium. This contrasted markedly with the very first England women's international match",
+                "metadata": {}
+            },
+            {
+                "text": "across England met in Liverpool on 10 December 1921 to formalise the English Ladies Football",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does mention England Women playing a match, but it does not specifically mention the new Wembley Stadium or the date of their first match there. Therefore, the retrieved context only partially matches the subject matter of the user's query.\n\n2. The retrieved context does not provide the specific date of when England Women played their first match at the new Wembley Stadium. It only mentions the location and a general reference to a match, but not the specific details requested in the query. Therefore, the retrieved context cannot be used exclusively to provide a full answer to the user's query.\n\n[RESULT] 2.0",
+        "response_time": 0.9579513072967529
+    },
+    {
+        "question": "27. Who won the SheBelieves Cup for the first time in 2019?",
+        "response": "The United States won the SheBelieves Cup for the first time in 2019.",
+        "context": [
+            {
+                "text": "Earlier in the same year they won the SheBelieves Cup for the first time. This success saw",
+                "metadata": {}
+            },
+            {
+                "text": "national representative women's teams. This was the predecessor to the Women’s EUROs.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions winning the SheBelieves Cup for the first time in 2019.\nScore: 2\n\n2. The retrieved context alone does not provide the specific answer to the user's query as it does not mention the name of the team that won the SheBelieves Cup in 2019.\nScore: 1\n\n[RESULT] 3.0",
+        "response_time": 0.8995890617370605
+    },
+    {
+        "question": "28. When was the first joint national participation programme for girls' football launched?",
+        "response": "The first joint national participation programme for girls' football was launched in 1921.",
+        "context": [
+            {
+                "text": "their first joint national participation programme for girls’ football.",
+                "metadata": {}
+            },
+            {
+                "text": "across England met in Liverpool on 10 December 1921 to formalise the English Ladies Football",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context mentions the launch of the first joint national participation programme for girls' football, which directly matches the subject matter of the user's query. Therefore, the retrieved context is relevant to the query. 2 out of 2 points.\n\n2. The retrieved context provides the specific date and location of the meeting where the programme was formalized, which can be used to answer the user's query. However, it does not explicitly state the year in which the programme was launched. Therefore, while the context is relevant, it may not be sufficient to provide a full answer to the query. 1 out of 2 points.\n\n[RESULT] 3.0",
+        "response_time": 0.8710072040557861
+    },
+    {
+        "question": "29. Who was the first Chair of the Women's Football Association (WFA)?",
+        "response": "Pat Dunn",
+        "context": [
+            {
+                "text": "amateur footballer, was the first Honorary Secretary of The WFA and Pat Dunn was its first Chair.",
+                "metadata": {}
+            },
+            {
+                "text": "saw the birth of the Women's Premier League (FAWPL).",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": true,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context does match the subject matter of the user's query as it mentions the first Chair of the Women's Football Association (WFA).\n\n2. The retrieved context alone cannot provide a full answer to the user's query as it only mentions the first Chair of the WFA without providing the specific name.\n\n[RESULT] 3.0",
+        "response_time": 4.651998519897461
+    },
+    {
+        "question": "30. When did the FA launch their first formal strategy for women's and girls' football in England?",
+        "response": "The FA launched their first formal strategy for women's and girls' football in England in 1921.",
+        "context": [
+            {
+                "text": "across England met in Liverpool on 10 December 1921 to formalise the English Ladies Football",
+                "metadata": {}
+            },
+            {
+                "text": "their first joint national participation programme for girls’ football.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.0,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context provided is about the formalization of English Ladies Football and a joint national participation program for girls' football, but it does not mention the launch date of the FA's first formal strategy for women's and girls' football in England.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. The context provided does not contain the specific information regarding the launch date of the FA's first formal strategy for women's and girls' football in England.\n\n[RESULT] 0.",
+        "response_time": 0.7622017860412598
+    },
+    {
+        "question": "31. Who presented the original 1972 team with their long-awaited caps in 2022?",
+        "response": "Jill Scott presented the original 1972 team with their long-awaited caps in 2022.",
+        "context": [
+            {
+                "text": "their long-awaited caps.",
+                "metadata": {}
+            },
+            {
+                "text": "at Wembley on 7 October 2022 when Jill Scott presented the original 1972 team with their",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The query is asking specifically about who presented the original 1972 team with their long-awaited caps in 2022, while the retrieved context only mentions Jill Scott presenting the team with their caps at Wembley on a specific date.\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. While it mentions Jill Scott presenting the team with their caps, it does not provide the specific information about who presented the original 1972 team with their long-awaited caps in 2022.\n\n[RESULT] 2.0",
+        "response_time": 2.145353317260742
+    },
+    {
+        "question": "32. When did the Lionesses reach the FIFA Women's World Cup Final for the first time?",
+        "response": "The Lionesses reached the FIFA Women's World Cup Final for the first time in 2015.",
+        "context": [
+            {
+                "text": "A year later, the Lionesses made more history in Australia when they reached the FIFA Women's World",
+                "metadata": {}
+            },
+            {
+                "text": "FIFA introduced the women’s World Cup competition in 1991 and as the women’s game started to grow",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context mentions the Lionesses reaching the FIFA Women's World Cup, which is relevant to the user's query about when they reached the final for the first time. However, the specific year of when they reached the final is not provided in the context.\n\n2. The retrieved context alone does not provide the specific year when the Lionesses reached the FIFA Women's World Cup Final for the first time. Additional information would be needed to provide a full answer to the user's query.\n\n[RESULT] 2.0",
+        "response_time": 1.0946476459503174
+    },
+    {
+        "question": "33. Who did the Lionesses lose to in the FIFA Women's World Cup Final in Sydney?",
+        "response": "The Lionesses lost to the United States in the FIFA Women's World Cup Final in Sydney.",
+        "context": [
+            {
+                "text": "A year later, the Lionesses made more history in Australia when they reached the FIFA Women's World",
+                "metadata": {}
+            },
+            {
+                "text": "However, that disappointment was replaced with further celebrations when the Lionesses retained",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context mentions the Lionesses reaching the FIFA Women's World Cup in Australia, which is relevant to the user's query about who they lost to in the final in Sydney. However, the specific opponent they lost to is not mentioned in the retrieved context. Partial points can be awarded for relevance but not complete matching of subject matter.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query as it does not mention the specific team the Lionesses lost to in the FIFA Women's World Cup Final in Sydney. The context only talks about the Lionesses reaching the final and not the outcome. No points can be awarded for exclusivity.\n\n[RESULT] 2.0",
+        "response_time": 0.8600857257843018
+    },
+    {
+        "question": "34. When did the Lionesses retain their UEFA Women's EURO crown?",
+        "response": "The Lionesses retained their UEFA Women's EURO crown at the 2025 tournament in Switzerland with a penalty.",
+        "context": [
+            {
+                "text": "retained their UEFA Women's EURO crown at the 2025 tournament in Switzerland with a penalty",
+                "metadata": {}
+            },
+            {
+                "text": "These foundations were given a further boost in 2005 when England hosted the UEFA Women’s EURO.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does match the subject matter of the user's query as it mentions the Lionesses retaining their UEFA Women's EURO crown.\n\n2. The retrieved context alone does not provide a full answer to the user's query as it does not specify the exact year when the Lionesses retained their UEFA Women's EURO crown.\n\n[RESULT] 2.0",
+        "response_time": 0.8649344444274902
+    },
+    {
+        "question": "35. Who did the Lionesses defeat in the UEFA Women's EURO final to retain their title?",
+        "response": "The Lionesses defeated their opponent in the UEFA Women's EURO final to retain their title.",
+        "context": [
+            {
+                "text": "retained their UEFA Women's EURO crown at the 2025 tournament in Switzerland with a penalty",
+                "metadata": {}
+            },
+            {
+                "text": "However, that disappointment was replaced with further celebrations when the Lionesses retained",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the Lionesses retaining their UEFA Women's EURO crown.\n2. The retrieved context alone does not provide the specific information about who the Lionesses defeated in the final to retain their title. It only mentions that they retained their crown with a penalty. Additional information is needed to fully answer the query.\n\n[RESULT] 3.0",
+        "response_time": 0.7791385650634766
+    },
+    {
+        "question": "36. When was the UEFA Women's EURO 2022 held?",
+        "response": "The UEFA Women's EURO 2022 was held in Switzerland.",
+        "context": [
+            {
+                "text": "retained their UEFA Women's EURO crown at the 2025 tournament in Switzerland with a penalty",
+                "metadata": {}
+            },
+            {
+                "text": "national representative women's teams. This was the predecessor to the Women’s EUROs.",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": false,
+        "relevancy": false,
+        "context_relevancy_score": 0.25,
+        "context_relevancy_feedback": "1. The retrieved context does not match the subject matter of the user's query. The context mentions the UEFA Women's EURO 2025 tournament in Switzerland, which is not the same as the UEFA Women's EURO 2022 mentioned in the query. Therefore, the context is not relevant to the query. 1/2 points.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query. Since the context mentions a different tournament in a different year, it does not provide the specific information needed to answer when the UEFA Women's EURO 2022 was held. 1/2 points.\n\n[RESULT] 1.0",
+        "response_time": 1.191676378250122
+    },
+    {
+        "question": "37. How many new opportunities for girls and women were created by the UEFA Women's EURO 2022?",
+        "response": "The UEFA Women's EURO 2022 created new opportunities for girls and women.",
+        "context": [
+            {
+                "text": "These foundations were given a further boost in 2005 when England hosted the UEFA Women’s EURO.",
+                "metadata": {}
+            },
+            {
+                "text": "for the UEFA Women’s Champions League. The WSL has increased the visibility of women’s club",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context does not directly address the number of new opportunities created for girls and women by the UEFA Women's EURO 2022. It mentions the UEFA Women's EURO in a different year and context.\n\n2. The retrieved context cannot be used exclusively to provide a full answer to the user's query as it does not provide information on the number of new opportunities created for girls and women by the UEFA Women's EURO 2022.\n\n[RESULT] 2.0",
+        "response_time": 1.0881357192993164
+    },
+    {
+        "question": "38. When was the Women's Professional Leagues Limited introduced?",
+        "response": "The Women's Professional Leagues Limited was introduced when the Women's Premier League (FAWPL) was established.",
+        "context": [
+            {
+                "text": "to become independent of the FA, with the introduction of Women's Professional Leagues Limited with",
+                "metadata": {}
+            },
+            {
+                "text": "saw the birth of the Women's Premier League (FAWPL).",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context mentions the introduction of Women's Professional Leagues Limited, which is directly related to the user's query about when it was introduced. Therefore, the retrieved context matches the subject matter of the user's query. 2 out of 2 points.\n\n2. The retrieved context alone does not provide a full answer to the user's query as it only mentions the introduction of Women's Professional Leagues Limited without specifying the exact date or year. Additional information would be needed to provide a complete answer. 1 out of 2 points.\n\n[RESULT] 3.0",
+        "response_time": 1.6022815704345703
+    },
+    {
+        "question": "39. Who was the first England team to win a major title on foreign soil?",
+        "response": "The first England team to win a major title on foreign soil was the team that achieved a penalty shootout victory over Spain in the final.",
+        "context": [
+            {
+                "text": "a major title on foreign soil.",
+                "metadata": {}
+            },
+            {
+                "text": "a penalty shootout victory over Spain in the final to become the first England team to win a major",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": true,
+        "context_relevancy_score": 0.75,
+        "context_relevancy_feedback": "1. The retrieved context does match the subject matter of the user's query as it mentions the first England team to win a major title on foreign soil.\n2. The retrieved context does not provide a full answer to the user's query as it does not specify which England team achieved this feat or in which sport it occurred.\n\n[RESULT] 3.0",
+        "response_time": 2.194469451904297
+    },
+    {
+        "question": "40. When was the Reaching Higher strategy launched for the women's and girls' game?",
+        "response": "The Reaching Higher strategy was launched for the women's and girls' game in 2024-2028.",
+        "context": [
+            {
+                "text": "Reaching Higher - a new women’s and girls’ game strategy for 2024-2028.",
+                "metadata": {}
+            },
+            {
+                "text": "were the three bold goals in The Gameplan for Growth, The FA’s first formal strategy for women’s",
+                "metadata": {}
+            }
+        ],
+        "faithfulness": true,
+        "relevancy": false,
+        "context_relevancy_score": 0.5,
+        "context_relevancy_feedback": "1. The retrieved context matches the subject matter of the user's query as it mentions the Reaching Higher strategy for the women's and girls' game.\n2. The retrieved context does not provide the specific launch date of the Reaching Higher strategy. It only mentions that it is a new strategy for 2024-2028. Therefore, the context cannot be used exclusively to provide a full answer to the user's query.\n\n[RESULT] 2.0",
+        "response_time": 1.1250600814819336
+    }
+]
